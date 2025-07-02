@@ -21,7 +21,7 @@ This app allows users to input a text prompt and generate beautiful images in va
 
 ### Live Demo (GIF)
 
-![demo_gif](https://github.com/user-attachments/assets/837c20c0-45e3-4d6c-8814-ec35051692ef)
+[![demo-gif.gif](https://i.postimg.cc/kg43XpZw/demo-gif.gif)](https://postimg.cc/N5WPdpQr)
 
 ### Screenshot
 
